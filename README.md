@@ -3,4 +3,4 @@
 
 ### 本项目为id生成器的服务
 
-### [本地安装启动zookeeper步骤](./intrduce/zookeeper.md)
+### [本地安装启动zookeeper步骤](./introduce/zookeeper.md)
